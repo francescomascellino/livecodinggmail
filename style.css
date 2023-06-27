@@ -18,3 +18,14 @@ span {
     font-size: 2rem;
     color: white;
 }
+
+#counter_number {
+    background-color: orange;
+    display: inline-block;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    border-radius: 50%;
+    text-align: center;
+
+}
