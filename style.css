@@ -1,3 +1,20 @@
 body {
     background-image: url("img/bg2_1920x1200.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 90%;
+    margin: auto;
+}
+
+.logo {
+    padding-top: 1rem;
+}
+
+img {
+    vertical-align: middle;
+}
+
+span {
+    font-size: 2rem;
+    color: white;
 }
