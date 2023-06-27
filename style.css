@@ -14,12 +14,14 @@ img {
     vertical-align: middle;
 }
 
-span {
+.counter {
     font-size: 2rem;
     color: white;
 }
 
 #counter_number {
+    font-size: 2rem;
+    color: white;
     background-color: orange;
     display: inline-block;
     width: 2.5rem;
